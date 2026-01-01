@@ -2,7 +2,6 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.56.0",
     "firebase-admin": "^13.4.0",
-    "next": "^15.5.0",
     "uuid": "^11.1.0"
   },
   "name": "print_list",
